@@ -29,7 +29,7 @@ Detectar e realçar automaticamente áreas com grafites em imagens urbanas utili
 
 | Imagem Original | Canny + Gaussiano | Contorno Realçado |
 |------------------|-------------------|--------------------|
-| ![](data/raw/Atlanta_ (33.735238, -84.40208).jpg) | ![](data/processed/canny_0.jpg) | ![](results/contornos_0.jpg) |
+| ![](data/raw/Atlanta_%20(33.735238%2C%20-84.40208).jpg) | ![](data/processed/canny_0.jpg) | ![](results/contornos_0.jpg) |
 
 ## 📁 Arquivo CSV
 

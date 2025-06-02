@@ -13,15 +13,7 @@ Detectar e realçar automaticamente áreas com grafites em imagens urbanas utili
 
 ## 🗂️ Estrutura de Pastas
 
-projeto-visao-computacional-grafite/
-├── data/
-│ ├── raw/ # Imagens originais
-│ └── processed/ # Imagens com pré-processamento (cinza, filtros, bordas)
-├── results/ # Imagens com contornos realçados + .csv com características
-├── notebooks/
-│ └── Projeto Grafite.ipynb
-├── .gitignore
-└── README.md
+<pre> ``` projeto-visao-computacional-grafite/ ├── data/ │ ├── raw/ # Imagens originais │ └── processed/ # Imagens com pré-processamento (cinza, filtros, bordas) ├── results/ # Imagens com contornos realçados + .csv com características ├── notebooks/ │ └── Projeto Grafite.ipynb ├── .gitignore └── README.md ``` </pre>
 
 ## 🔧 Técnicas aplicadas
 
@@ -37,7 +29,7 @@ projeto-visao-computacional-grafite/
 
 | Imagem Original | Canny + Gaussiano | Contorno Realçado |
 |------------------|-------------------|--------------------|
-| ![](results/contornos_0.jpg) | ![](data/processed/canny_0.jpg) | ![](results/contornos_0.jpg) |
+| ![](data/raw/Atlanta_ (33.735238, -84.40208).jpg) | ![](data/processed/canny_0.jpg) | ![](results/contornos_0.jpg) |
 
 ## 📁 Arquivo CSV
 

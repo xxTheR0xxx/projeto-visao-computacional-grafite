@@ -23,7 +23,9 @@ Detectar e realçar automaticamente áreas com grafites em imagens urbanas utili
 │ └── Projeto Grafite.ipynb
 ├── utils/
 ├── .gitignore
-└── README.md ``` </pre>
+└── README.md
+  ``` 
+</pre>
 
 ## 🔧 Técnicas aplicadas
 

@@ -13,7 +13,17 @@ Detectar e realçar automaticamente áreas com grafites em imagens urbanas utili
 
 ## 🗂️ Estrutura de Pastas
 
-<pre lang="markdown"> ``` projeto-visao-computacional-grafite/ ├── data/ │ ├── raw/ # Imagens originais │ └── processed/ # Imagens com pré-processamento (cinza, filtros, bordas) ├── results/ # Imagens com contornos realçados + .csv com características ├── notebooks/ │ └── Projeto Grafite.ipynb ├── utils/ ├── .gitignore └── README.md ``` </pre>
+<pre lang="markdown"> ``` 
+  projeto-visao-computacional-grafite/
+├── data/
+│ ├── raw/ # Imagens originais
+│ └── processed/ # Imagens com pré-processamento (cinza, filtros, bordas)
+├── results/ # Imagens com contornos realçados + .csv com características
+├── notebooks/
+│ └── Projeto Grafite.ipynb
+├── utils/
+├── .gitignore
+└── README.md ``` </pre>
 
 ## 🔧 Técnicas aplicadas
 

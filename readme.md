@@ -18,18 +18,20 @@ Desenvolver um sistema capaz de **detectar, realçar e comparar automaticamente 
 
 ## 🗂️ Estrutura de Pastas
 
+<pre lang="markdown"> ``` 
 projeto-visao-computacional-grafite/
 ├── data/
 │ ├── raw/ # Imagens originais
-│ ├── processed/ # Imagens após pré-processamento (cinza, filtros, bordas)
+│ ├── processed/ # Imagens com pré-processamento (cinza, filtros, bordas)
 │ ├── morphology/ # Imagens após operações morfológicas
 │ └── matches/ # Resultados das correspondências de características
-├── results/ # Imagens com contornos realçados e .csv de características
-├── notebooks/ # Notebooks separados por etapa do projeto
+├── results/ # Imagens finais realçadas e .csv de características
+├── notebooks/
+│ └── Projeto Grafite.ipynb
 ├── utils/ # Scripts auxiliares
 ├── .gitignore
-└── README.md
-
+└── README.md  ``` 
+</pre>
 
 ---
 
@@ -74,7 +76,7 @@ projeto-visao-computacional-grafite/
 
 | Imagem Original | Bordas + Filtros | Morfologia Aplicada | Correspondência (Matching) |
 |-----------------|------------------|---------------------|----------------------------|
-| ![](data/raw/Atlanta_%20(33.735238%2C%20-84.40208).jpg) | ![](data/processed/canny_0.jpg) | ![](data/morphology/canny_0.jpg) | ![](data/matches/canny_0_canny_1.jpg) |
+| ![](data/raw/IMG8857.jpg) | ![](data/processed/canny_12.jpg) | ![](data/morphology/canny_12.jpg) | ![](data/matches/matches_n800_r65/canny_109_canny_112.jpgcanny_0_canny_1.jpg) |
 
 ---
 

@@ -76,7 +76,7 @@ projeto-visao-computacional-grafite/
 
 | Imagem Original | Bordas + Filtros | Morfologia Aplicada | Correspondência (Matching) |
 |-----------------|------------------|---------------------|----------------------------|
-| ![](data/raw/IMG_8857.jpg) | ![](data/processed/canny_12.jpg) | ![](data/morphology/canny_12.jpg) | ![](data/matches/matches_n800_r65/canny_109_canny_112.jpg) |
+| ![](data/raw/IMG_8857.JPG) | ![](data/processed/canny_12.jpg) | ![](data/morphology/canny_12.jpg) | ![](data/matches/matches_n800_r65/canny_109_canny_112.jpg) |
 
 ---
 
